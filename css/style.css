@@ -31,7 +31,7 @@ section{
 	.navbar{display: flex; justify-content: center; align-items: center;}
 	body{padding: 20px}
 	section{margin: 0; padding: 0}
-	#scrollspyHeading1{padding-top: 200px; }
+	#scrollspyHeading1{padding-top: 120px; }
 }
 .timeline {
   list-style: none;
